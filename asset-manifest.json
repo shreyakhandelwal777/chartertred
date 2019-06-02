@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.8838fd7d.chunk.css",
-    "main.js": "/static/js/main.4a3944af.chunk.js",
-    "main.js.map": "/static/js/main.4a3944af.chunk.js.map",
+    "main.css": "/static/css/main.ead67442.chunk.css",
+    "main.js": "/static/js/main.3454c0cc.chunk.js",
+    "main.js.map": "/static/js/main.3454c0cc.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.2a88c607.chunk.css": "/static/css/2.2a88c607.chunk.css",
-    "static/js/2.cbf0cafa.chunk.js": "/static/js/2.cbf0cafa.chunk.js",
-    "static/js/2.cbf0cafa.chunk.js.map": "/static/js/2.cbf0cafa.chunk.js.map",
+    "static/js/2.c9af346a.chunk.js": "/static/js/2.c9af346a.chunk.js",
+    "static/js/2.c9af346a.chunk.js.map": "/static/js/2.c9af346a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8b12ef8572c676d35fbb69539a8d1a8f.js": "/precache-manifest.8b12ef8572c676d35fbb69539a8d1a8f.js",
+    "precache-manifest.422ac45f02f4728b07b2f77ac2bb7bd3.js": "/precache-manifest.422ac45f02f4728b07b2f77ac2bb7bd3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.2a88c607.chunk.css.map": "/static/css/2.2a88c607.chunk.css.map",
-    "static/css/main.8838fd7d.chunk.css.map": "/static/css/main.8838fd7d.chunk.css.map",
+    "static/css/main.ead67442.chunk.css.map": "/static/css/main.ead67442.chunk.css.map",
+    "static/media/bread.jpg": "/static/media/bread.097a273e.jpg",
     "static/media/chawal.jpg": "/static/media/chawal.1d0b2473.jpg",
     "static/media/debitcard.jpg": "/static/media/debitcard.30135f92.jpg",
     "static/media/ebazar.jpeg": "/static/media/ebazar.b6d05c21.jpeg",
-    "static/media/images.jpg": "/static/media/images.4dc62477.jpg"
+    "static/media/images.jpg": "/static/media/images.4dc62477.jpg",
+    "static/media/miniegg.jpg": "/static/media/miniegg.ad00a435.jpg",
+    "static/media/redchili.jpg": "/static/media/redchili.1b20881f.jpg",
+    "static/media/safola.jpg": "/static/media/safola.d8550ae0.jpg",
+    "static/media/salt.jpg": "/static/media/salt.cb1850ed.jpg",
+    "static/media/sugar.jpg": "/static/media/sugar.af8518b9.jpg"
   }
 }
