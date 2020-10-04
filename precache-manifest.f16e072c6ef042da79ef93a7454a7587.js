@@ -19,6 +19,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "revision": "163a54f29a9dacf09102",
     "url": "/static/js/main.33b31c2e.chunk.js"
   },
+  // new change 
+  {
+    "revision": "163a54f29a9dacf09102",
+    "url": "/static/js/main.33b31c2e.chunk.js"
+  },
+  
+  
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
